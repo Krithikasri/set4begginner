@@ -1,2 +1,2 @@
-l=list(map(int,input().split()))
-print(max(l))
+krithu=list(map(int,input().split()))
+print(max(krithu))
