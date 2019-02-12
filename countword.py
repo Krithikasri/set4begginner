@@ -1,6 +1,6 @@
-g=input()
-e=1
-for t in range(0,len(g)):
-	if g[t]==' ':
-		e=e+1
-print(e)
+h=input()
+i=1
+for t in range(0,len(h)):
+	if h[t]==' ':
+		i=i+1
+print(i)
